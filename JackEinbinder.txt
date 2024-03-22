@@ -1,0 +1,4 @@
+Name: Jack Einbinder
+Major: CS
+Year: 1st (graduate student)
+Favorite thing about robotics (so far): building robots
